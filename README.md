@@ -1,3 +1,5 @@
+# Calculator
+
 A simple CALCULATOR made with Python to do basic calculations:
 * Addition(+)
 * Subraction(-)
